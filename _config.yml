@@ -2,6 +2,7 @@ name: SnapMD
 favicon: null
 layout_spectrum: 0.24477
 typography_spectrum: 0.39766
+title: SnapMD - Virtual Care Management Telemedicine
 cta:
   domain: null
   bucket: null
