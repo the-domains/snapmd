@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[spinox : virtual clinic]]></title>
+        <description><![CDATA[spinox : virtual clinic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 00:15:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48b1d37a-fc8d-426a-b8da-7b3ab377abc9.jpg">]]></description>
+            <link>undefinedcf0971f5-8116-4ca2-b7ff-3048d61d5cec/index.html</link>
+            <guid isPermaLink="false">cf0971f5-8116-4ca2-b7ff-3048d61d5cec</guid>
+            <pubDate>Mon, 01 Feb 2016 00:15:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
